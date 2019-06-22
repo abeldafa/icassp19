@@ -23,7 +23,7 @@ gst-plugins-base==1.8.0
 gstreamer==1.8.0
 h5py==2.7.1
 hdf5==1.10.1
-html5lib=0.9999999
+html5lib==0.9999999
 icu==58.2
 intel-openmp==2018.0.0
 joblib==0.11
@@ -49,7 +49,7 @@ markupsafe==1.0
 matplotlib==2.2.2
 mkl==2018.0.2
 mkl_fft==1.0.1
-mkl_random=1.0.1
+mkl_random==1.0.1
 ncurses==5.9
 numba==0.36.2
 numpy==1.14.2
